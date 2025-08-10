@@ -1,0 +1,4 @@
+# This file ensures the assets directory is tracked by git
+# Place your model files here:
+# - air_quality_lstm_model.h5
+# - scaler.pkl
